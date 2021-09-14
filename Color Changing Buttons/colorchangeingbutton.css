@@ -1,0 +1,14 @@
+.container-3{
+    border:1px solid red;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-buttons {
+    display: flex;
+    border:1px solid black;
+    padding: 10px; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+}
